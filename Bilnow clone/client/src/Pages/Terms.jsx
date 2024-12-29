@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../Components/Header';
-import Contact from '../Components/Contact';
-import Footer from '../Components/Footer';
+import Header from '../Components/Home/Header';
+import Contact from '../Components/Home/Contact';
+import Footer from '../Components/Home/Footer';
 import Termsbg from '../assets/Termsbg.jpg';
 
 const Terms = () => {

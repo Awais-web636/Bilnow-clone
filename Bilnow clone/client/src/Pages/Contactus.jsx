@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from '../Components/Header';
+import Header from '../Components/Home/Header';
 import Contactbanner from '../assets/Contactbanner.webp'
-import Contact from '../Components/Contact'
-import Footer from '../Components/Footer';
+import Contact from '../Components/Home/Contact'
+import Footer from '../Components/Home/Footer';
 const Contactus= ()=> {
   return (
     <>

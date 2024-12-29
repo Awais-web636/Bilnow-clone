@@ -80,6 +80,7 @@ const Navbar = () => {
                   Specialty 2
                 </a>
               </li>
+
             </ul>
           </li>
           {['blogs', 'contact'].map((item) => (

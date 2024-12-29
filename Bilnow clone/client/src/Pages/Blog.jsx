@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from '../Components/Header';
+import Header from '../Components/Home/Header';
 import blogbg from '../assets/blogbg.jpg'; // Ensure this path is correct
 import { FaSearch } from 'react-icons/fa'
 import Cptcard from '../assets/Cptcard.webp'
 import Compcard from '../assets/Compcard.webp'
 import Streamcard from '../assets/Streamcard.webp'
-import Contact from '../Components/Contact'
-import Footer from '../Components/Footer';
+import Contact from '../Components/Home/Contact'
+import Footer from '../Components/Home/Footer';
 const Blog = () => {
   const posts = [
     {
